@@ -1,11 +1,16 @@
 _repo: Junge-Herzen-Erzahlungen-fur-die-reifere-Jugend_61667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61667-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutzler, Sara
     gutenberg_agent_id: '51551'
     url: http://www.gutenberg.org/2009/agents/51551
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61667#Junge-Herzen-Erzahlungen-fur-die-reifere-Jugend
 gutenberg_issued: '2020-03-24'
 gutenberg_type: Text
 identifiers:
